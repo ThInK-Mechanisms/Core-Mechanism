@@ -1,5 +1,5 @@
 # C0-C3 Core Mechanism
-We followed a fundamental principle when we created the ThInK core mechanism: 
+We followed a fundamental principle when we created the ThInK core mechanism for hydrocarbon combustion (C0-C3 fuels): 
 There is no fitting in this mechanism to any experimental bulk properties.
 Instead, this mechanism is largely developed through ab initio kinetics calculations 
 wherever additional thermochemical and kinetic parameters were needed.
